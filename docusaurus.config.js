@@ -32,7 +32,7 @@ const config = {
     defaultLocale: 'pt',
     locales: ['pt'],
   },
-  // ...
+  
   presets: [
     [
       'classic',
