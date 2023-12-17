@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'OFICINA WINRAR',
   tagline: 'Sempre ao seu Dispor',
-  favicon: 'oficina.ico',
+  favicon: 'favicon.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -62,7 +62,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
+      //Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'OFICINA',
