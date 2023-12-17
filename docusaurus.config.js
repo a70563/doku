@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'OFICINA WINRAR',
   tagline: 'Sempre ao seu Dispor',
-  favicon: 'oficina.ico',
+  favicon: 'img/oficina.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
