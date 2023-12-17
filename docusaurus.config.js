@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'OFICINA WINRAR',
   tagline: 'Sempre ao seu Dispor',
-  favicon: 'img/favicon.ico',
+  favicon: 'oficina.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -68,7 +68,7 @@ const config = {
         title: 'OFICINA',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'oficina.png',
         },
         items: [
           //{to: '/blog', label: 'Blog', position: 'left'},
@@ -113,7 +113,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Oficina Winrar, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
