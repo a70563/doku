@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[4938],{3636:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/OficinaWinrar/blog/tags/facebook","allTagsPath":"/OficinaWinrar/blog/tags","count":1}')}}]);
