@@ -14,12 +14,12 @@ const config = {
   url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/doku/',
+  baseUrl: '/OficinaWinrar/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'a70563', // Usually your GitHub org/user name.
-  projectName: 'doku', // Usually your repo name.
+  projectName: 'OficinaWinrar', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
@@ -65,39 +65,39 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'OFICINA',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Logo',
           src: 'img/logo.svg',
         },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ],
-      },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
+        //items: [
+          //{
+           // type: 'docSidebar',
+            //sidebarId: 'tutorialSidebar',
+            //position: 'left',
+            //label: 'Tutorial',
+          //},
+          //{to: '/blog', label: 'Blog', position: 'left'},
+          //{
+           // href: 'https://github.com/facebook/docusaurus',
+           //label: 'GitHub',
+           //position: 'right',
+          //},
+        //],
+      //},
+      //footer: {
+        //style: 'dark',
+        //links: [
+          //{
+            //title: 'Docs',
+            //items: [
+              //{
+                //label: 'Tutorial',
+                //to: '/docs/intro',
+              //},
+           // ],
+          //},
+          //{
             title: 'Community',
             items: [
               {
