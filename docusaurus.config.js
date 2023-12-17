@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Test Site',
-  tagline: 'Disciplina de ADC',
+  title: 'OFICINA WINRAR',
+  tagline: 'Sempre ao seu Dispor',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
