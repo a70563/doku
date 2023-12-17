@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/doku/blog</id>
-    <title>My Test Site Blog</title>
+    <title>OFICINA WINRAR Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/doku/blog"/>
-    <subtitle>My Test Site Blog</subtitle>
+    <subtitle>OFICINA WINRAR Blog</subtitle>
     <icon>https://github.com/doku/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
