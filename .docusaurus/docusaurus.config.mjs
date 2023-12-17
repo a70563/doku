@@ -116,7 +116,7 @@ export default {
       "theme": {
         "plain": {
           "color": "#393A34",
-          "backgroundColor": "#f6f8fa"
+          "backgroundColor": "#004aac"
         },
         "styles": [
           {
@@ -218,7 +218,7 @@ export default {
       "darkTheme": {
         "plain": {
           "color": "#F8F8F2",
-          "backgroundColor": "#282A36"
+          "backgroundColor": "#004aac"
         },
         "styles": [
           {
